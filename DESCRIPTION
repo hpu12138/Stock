@@ -1,0 +1,10 @@
+Package: Stock
+Type: Package
+Title: Predict functional data
+Version: 0.1.0
+Author: pu hongming
+Maintainer: Pu Hongming <phmhappier@163.com>
+Description: predict functional data
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
